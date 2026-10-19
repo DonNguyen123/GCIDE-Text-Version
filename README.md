@@ -1,0 +1,1 @@
+Hello. This is the basiclly the text version of the GNU Collaborative International Dictionary of English, or GCIDE, version 0.54. The code used to turn the GCIDE files to text was partially modified from the code in this github: https://github.com/scillidan/share_gcide/tree/main. Please note as per GCIDE requirements, this is all under GNU Licenese. 
