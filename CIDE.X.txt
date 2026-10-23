@@ -1,24 +1,40 @@
 X
-    X (ĕks). X, the twenty-fourth letter of the English alphabet, has three sounds; a compound nonvocal sound (that of ks), as in wax; a compound vocal sound (that of gz), as in example; and, at the beginning of a word, a simple vocal sound (that of z), as in xanthic. See Guide to Pronunciation, §§ 217, 270, 271.[1913 Webster]
+    X (ĕks). X, the twenty-fourth letter of the English alphabet, has three sounds; a compound nonvocal sound (that of ks), as in wax; a compound vocal sound (that of gz), as in example; and, at the beginning of a word, a simple vocal sound (that of z), as in xanthic. See Guide to Pronunciation, §§ 217, 270, 271.
 
-    The form and value of X are from the Latin X, which is from the Greek χ, which in some Greek alphabets had the value of ks, though in the one now in common use it represents an aspirated sound of k.[1913 Webster]
+    [1913 Webster]
+
+    The form and value of X are from the Latin X, which is from the Greek Χ, which in some Greek alphabets had the value of ks, though in the one now in common use it represents an aspirated sound of k.
+
+    [1913 Webster]
 
 Xanthamide
-    Xanth*am"ide (?), n. [Xanthic + amide.] (Chem.) An amido derivative of xanthic acid obtained as a white crystalline substance, C2H5O.CS.NH2; -- called also xanthogen amide.[1913 Webster]
+    Xanth*am"ide, n. [Xanthic + amide.] (Chem.) An amido derivative of xanthic acid obtained as a white crystalline substance, C2H5O.CS.NH2; -- called also xanthogen amide.
+
+    [1913 Webster]
 
 Xanthate
-    Xan"thate (?), n. [See Xanthic.] (Chem.) A salt of xanthic; a xanthogenate.[1913 Webster]
+    Xan"thate, n. [See Xanthic.] (Chem.) A salt of xanthic; a xanthogenate.
+
+    [1913 Webster]
 
 Xanthelasma
-    \'d8Xan`the*las"ma (?), n. [NL.; Gr. xanqo`s yellow + 'e`lasma a metal plate.] (Med.) See Xanthoma.[1913 Webster]
+    Xan`the*las"ma, n. [NL.; Gr. ξανθός yellow + ἔλασμα a metal plate.] (Med.) See Xanthoma.
+
+    [1913 Webster]
 
 Xanthian
-    Xan"thi*an (?), a. Of or pertaining to Xanthus, an ancient town on Asia Minor; -- applied especially to certain marbles found near that place, and now in the British Museum.[1913 Webster]
+    Xan"thi*an, a. Of or pertaining to Xanthus, an ancient town on Asia Minor; -- applied especially to certain marbles found near that place, and now in the British Museum.
+
+    [1913 Webster]
 
 Xanthic
-    Xan"thic (?), a. [Gr. xanqo`s yellow: cf. F. xanthique.][1913 Webster]
+    Xan"thic, a. [Gr. ξανθός yellow: cf. F. xanthique.]
 
-    1. Tending toward a yellow color, or to one of those colors, green being excepted, in which yellow is a constituent, as scarlet, orange, etc.[1913 Webster]
+    [1913 Webster]
+
+    1. Tending toward a yellow color, or to one of those colors, green being excepted, in which yellow is a constituent, as scarlet, orange, etc.
+
+    [1913 Webster]
 
     2. (Chem.)
 
@@ -26,596 +42,966 @@ Xanthic
 
     (b) Of or pertaining to xanthic acid, or its compounds; xanthogenic.
 
-    (c) Of or pertaining to xanthin.[1913 Webster]
+    (c) Of or pertaining to xanthin.
 
-    Xanthic acid (Chem.), a heavy, astringent, colorless oil, C2H5O.CS.SH, having a pungent odor. It is produced by leading carbon disulphide into a hot alcoholic solution of potassium hydroxide. So called from the yellow color of many of its salts. Called also xanthogenic acid. --
-    Xanthic colors (Bot.), those colors (of flowers) having some tinge of yellow; -- opposed to cyanic colors. See under Cyanic.[1913 Webster]
+    [1913 Webster]
+
+    -- Xanthic acid (Chem.), a heavy, astringent, colorless oil, C2H5O.CS.SH, having a pungent odor. It is produced by leading carbon disulphide into a hot alcoholic solution of potassium hydroxide. So called from the yellow color of many of its salts. Called also xanthogenic acid.
+    -- Xanthic colors (Bot.), those colors (of flowers) having some tinge of yellow; -- opposed to cyanic colors. See under Cyanic.
+
+    [1913 Webster]
 
 Xanthide
-    Xan"thide (?), n. [See Xantho-.] (Chem.) A compound or derivative of xanthogen. [Archaic][1913 Webster]
+    Xan"thide, n. [See Xantho-.] (Chem.) A compound or derivative of xanthogen. [Archaic]
+
+    [1913 Webster]
 
 Xanthidium
-    \'d8Xan*thid"i*um (?), n.; pl. Xanthidia (?). [NL., fr. Gr. xanqo`s yellow.] (Bot.) A genus of minute unicellular algae of the desmids. These algae have a rounded shape and are armed with glochidiate or branched aculei. Several species occur in ditches, and others are found fossil in flint or hornstone.[1913 Webster]
+    Xan*thid"i*um, n.; pl. Xanthidia. [NL., fr. Gr. ξανθός yellow.] (Bot.) A genus of minute unicellular algae of the desmids. These algae have a rounded shape and are armed with glochidiate or branched aculei. Several species occur in ditches, and others are found fossil in flint or hornstone.
+
+    [1913 Webster]
 
 Xanthin
-    Xan"thin (?), n. [Gr. xanqo`s yellow.]
+    Xan"thin, n. [Gr. ξανθός yellow.]
 
-    1. same as xanthine.[1913 Webster]
+    1. same as xanthine.
 
-    2. (Chem.) A yellow insoluble coloring matter extracted from yellow flowers; specifically, the coloring matter of madder. [Formerly written also xanthein.][1913 Webster]
+    [1913 Webster]
 
-    3. (Chem.) One of the gaseous or volatile decomposition products of the xanthates, and probably identical with carbon disulphide. [Obs.][1913 Webster]
+    2. (Chem.) A yellow insoluble coloring matter extracted from yellow flowers; specifically, the coloring matter of madder. [Formerly written also xanthein.]
+
+    [1913 Webster]
+
+    3. (Chem.) One of the gaseous or volatile decomposition products of the xanthates, and probably identical with carbon disulphide. [Obs.]
+
+    [1913 Webster]
 
 Xanthin
-    XanthineXan"thine (?), n. Also Xan"thin]. [Gr. xanqo`s yellow.] (Physiol. Chem.) A type of purine obtainable as a white microcrystalline powder, C5H4O2N4, present in muscle tissue, in the liver, spleen, pancreas, and other organs, and also in urine (in small quantities) and some urinary calculi, and in the juices of certain plants; -- so called because it leaves a yellow residue when evaporated to dryness with nitric acid. It is also present in guano. Xanthine is closely related to uric acid.[Webster 1913 Suppl.]
+    Xan"thine, n. Also Xan"thin. [Gr. ξανθός yellow.] (Physiol. Chem.) A type of purine obtainable as a white microcrystalline powder, C5H4O2N4, present in muscle tissue, in the liver, spleen, pancreas, and other organs, and also in urine (in small quantities) and some urinary calculi, and in the juices of certain plants; -- so called because it leaves a yellow residue when evaporated to dryness with nitric acid. It is also present in guano. Xanthine is closely related to uric acid.
+
+    [Webster 1913 Suppl.]
 
 Xanthinine
-    Xan"thi*nine (?), n. [Gr. xanqo`s yellow + quinine.] (Chem.) A complex nitrogenous substance related to urea and uric acid, produced as a white powder; -- so called because it forms yellow salts, and because its solution forms a blue fluorescence like quinine.[1913 Webster]
+    Xan"thi*nine, n. [Gr. ξανθός yellow + quinine.] (Chem.) A complex nitrogenous substance related to urea and uric acid, produced as a white powder; -- so called because it forms yellow salts, and because its solution forms a blue fluorescence like quinine.
+
+    [1913 Webster]
 
 Xanthium
-    \'d8Xan"thi*um (?), n. [NL., fr. Gr. xάnqion a plant used for dyeing the hair yellow, said to be the Xanthium strumarium, from xanqo`s yellow.] (Bot.) A genus of composite plants in which the scales of the involucre are united so as to form a kind of bur; cocklebur; clotbur.[1913 Webster]
+    Xan"thi*um, n. [NL., fr. Gr. ξάνθιον a plant used for dyeing the hair yellow, said to be the Xanthium strumarium, from ξανθός yellow.] (Bot.) A genus of composite plants in which the scales of the involucre are united so as to form a kind of bur; cocklebur; clotbur.
+
+    [1913 Webster]
 
 Xantho-
-    Xan"tho- (?). A combining form from Gr. xanqo`s yellow; as in xanthocobaltic salts. Used also adjectively in chemistry.[1913 Webster]
+    Xan"tho-. A combining form from Gr. ξανθός yellow; as in xanthocobaltic salts. Used also adjectively in chemistry.
+
+    [1913 Webster]
 
 Xanthocarpous
-    Xan`tho*car"pous (?), a. [Xantho- + Gr. karpo`s fruit.] (Bot.) Having yellow fruit.[1913 Webster]
+    Xan`tho*car"pous, a. [Xantho- + Gr. καρπός fruit.] (Bot.) Having yellow fruit.
+
+    [1913 Webster]
 
 Xanthochroi
-    \'d8Xan*thoch"ro*i (?), n. pl. [NL. See Xanthochroic.] (Ethnol.) A division of the Caucasian races, comprising the lighter-colored members.[1913 Webster]
+    Xan*thoch"ro*i, n. pl. [NL. See Xanthochroic.] (Ethnol.) A division of the Caucasian races, comprising the lighter-colored members.
 
-    The Xanthochroi, or fair whites, . . . are the prevalent inhabitants of Northern Europe, and the type may be traced into North Africa, and eastward as far as Hindostan. [Tylor.][1913 Webster]
+    [1913 Webster]
+
+    The Xanthochroi, or fair whites, . . . are the prevalent inhabitants of Northern Europe, and the type may be traced into North Africa, and eastward as far as Hindostan. [Tylor.]
+
+    [1913 Webster]
 
 Xanthochroic
-    Xan`tho*chro"ic (?), a. [Xantho- + Gr. chro`a color.] (Ethnol.) Having a yellowish or fair complexion; of or pertaining to the Xanthochroi.[1913 Webster]
+    Xan`tho*chro"ic, a. [Xantho- + Gr. χρόα color.] (Ethnol.) Having a yellowish or fair complexion; of or pertaining to the Xanthochroi.
+
+    [1913 Webster]
 
 Xanthochroid
-    Xan"tho*chroid (?), a. [See under Xanthrochroic, -oid.] (Ethnol.) Having a yellowish or fair complexion. -- n. A person having xanthochroid traits.[Webster 1913 Suppl.]
+    Xan"tho*chroid, a. [See under Xanthrochroic, -oid.] (Ethnol.) Having a yellowish or fair complexion. -- n. A person having xanthochroid traits.
+
+    [Webster 1913 Suppl.]
 
 Xanthochroism
-    Xan*thoch"ro*ism (?), n. Abnormal coloration of feathers in which yellow replaces the normal color, as in certain parrots. It is commonly due to lack of the dark pigment which with yellow forms green.[Webster 1913 Suppl.]
+    Xan*thoch"ro*ism, n. Abnormal coloration of feathers in which yellow replaces the normal color, as in certain parrots. It is commonly due to lack of the dark pigment which with yellow forms green.
+
+    [Webster 1913 Suppl.]
 
 Xanthodontous
-    Xan`tho*don"tous (?), a. [Xantho- + Gr. 'odoy`s, 'odo`ntos, tooth.] Having yellow teeth.[1913 Webster]
+    Xan`tho*don"tous, a. [Xantho- + Gr. ὀδούς, ὀδόντος, tooth.] Having yellow teeth.
+
+    [1913 Webster]
 
 Xanthogen
-    Xan"tho*gen (?), n. [Xantho- + -gen.] (Chem.)
+    Xan"tho*gen, n. [Xantho- + -gen.] (Chem.)
 
     (a) The hypothetical radical supposed to be characteristic of xanthic acid. [Archaic]
 
-    (b) Persulphocyanogen. [R.][1913 Webster]
+    (b) Persulphocyanogen. [R.]
+
+    [1913 Webster]
 
 Xanthogenate
-    Xan"tho*gen*ate (?), n. (Chem.) A salt of xanthic acid.[1913 Webster]
+    Xan"tho*gen*ate, n. (Chem.) A salt of xanthic acid.
+
+    [1913 Webster]
 
 Xanthogenic
-    Xan`tho*gen"ic (?), a. [See Xantho-, and -gen.] (Chem.) Producing a yellow color or compound; xanthic. See Xanthic acid, under Xanthic.[1913 Webster]
+    Xan`tho*gen"ic, a. [See Xantho-, and -gen.] (Chem.) Producing a yellow color or compound; xanthic. See Xanthic acid, under Xanthic.
+
+    [1913 Webster]
 
 Xanthoma
-    \'d8Xan*tho"ma (?), n. [NL. See Xantho-, and -oma.] (Med.) A skin disease marked by the development or irregular yellowish patches upon the skin, especially upon the eyelids; -- called also xanthelasma.[1913 Webster]
+    Xan*tho"ma, n. [NL. See Xantho-, and -oma.] (Med.) A skin disease marked by the development or irregular yellowish patches upon the skin, especially upon the eyelids; -- called also xanthelasma.
+
+    [1913 Webster]
 
 Xanthomatous
-    Xan*thomἁ*tous (?), a. (Med.) Of or pertaining to xanthoma.[Webster 1913 Suppl.]
+    Xan*thom"a*tous, a. (Med.) Of or pertaining to xanthoma.
+
+    [Webster 1913 Suppl.]
 
 Xanthomelanous
-    Xan`tho*melἁ*nous (?), a. [Pref. xantho- + Gr. ⸮, ⸮, black.] (Ethnol.) Of or pertaining to the lighter division of the Melanochroi, or those races having an olive or yellow complexion and black hair.[Webster 1913 Suppl.]
+    Xan`tho*mel"a*nous, a. [Pref. xantho- + Gr.,, black.] (Ethnol.) Of or pertaining to the lighter division of the Melanochroi, or those races having an olive or yellow complexion and black hair.
+
+    [Webster 1913 Suppl.]
 
 Xanthophane
-    Xan"tho*phane (?), n. [Xantho- + Gr. fai`nein to show.] (Physiol.) The yellow pigment present in the inner segments of the retina in animals. See Chromophane.[1913 Webster]
+    Xan"tho*phane, n. [Xantho- + Gr. φαίνειν to show.] (Physiol.) The yellow pigment present in the inner segments of the retina in animals. See Chromophane.
+
+    [1913 Webster]
 
 Xanthophyll
-    Xan"tho*phyll (?), n. [Xantho- + Gr. fy`llon leaf.] (Bot.) A yellow coloring matter found in yellow autumn leaves, and also produced artificially from chlorophyll; -- formerly called also phylloxanthin.[1913 Webster]
+    Xan"tho*phyll, n. [Xantho- + Gr. φύλλον leaf.] (Bot.) A yellow coloring matter found in yellow autumn leaves, and also produced artificially from chlorophyll; -- formerly called also phylloxanthin.
+
+    [1913 Webster]
 
 Xanthopous
-    Xan"tho*pous (?), a. [Xantho- + Gr. poy`s, podo`s, foot.] (Bot.) Having a yellow stipe, or stem.[1913 Webster]
+    Xan"tho*pous, a. [Xantho- + Gr. πούς, ποδός, foot.] (Bot.) Having a yellow stipe, or stem.
+
+    [1913 Webster]
 
 Xanthoproteic
-    Xan`tho*pro*te"ic (?), a. (Physiol. Chem.) Pertaining to, or derived from, xanthoprotein; showing the characters of xanthoprotein; as, xanthoproteic acid; the xanthoproteic reaction for albumin.[1913 Webster]
+    Xan`tho*pro*te"ic, a. (Physiol. Chem.) Pertaining to, or derived from, xanthoprotein; showing the characters of xanthoprotein; as, xanthoproteic acid; the xanthoproteic reaction for albumin.
+
+    [1913 Webster]
 
 Xanthoprotein
-    Xan`tho*pro"te*in (?), n. [Xantho- + protein.] (Physiol. Chem.) A yellow acid substance formed by the action of hot nitric acid on albuminous or proteid matter. It is changed to a deep orange-yellow color by the addition of ammonia.[1913 Webster]
+    Xan`tho*pro"te*in, n. [Xantho- + protein.] (Physiol. Chem.) A yellow acid substance formed by the action of hot nitric acid on albuminous or proteid matter. It is changed to a deep orange-yellow color by the addition of ammonia.
+
+    [1913 Webster]
 
 Xanthopuccine
-    Xan`tho*puc"cine (?), n. [Xantho- + puccoon + -ine.] (Chem.) One of three alkaloids found in the root of the yellow puccoon (Hydrastis Canadensis). It is a yellow crystalline substance, and resembles berberine.[1913 Webster]
+    Xan`tho*puc"cine, n. [Xantho- + puccoon + -ine.] (Chem.) One of three alkaloids found in the root of the yellow puccoon (Hydrastis Canadensis). It is a yellow crystalline substance, and resembles berberine.
+
+    [1913 Webster]
 
 Xanthorhamnin
-    Xan`tho*rham"nin (?), n. [Xantho- + NL. Rhamnus, the generic name of the plant bearing Persian berries.] (Chem.) A glucoside extracted from Persian berries as a yellow crystalline powder, used as a dyestuff.[1913 Webster]
+    Xan`tho*rham"nin, n. [Xantho- + NL. Rhamnus, the generic name of the plant bearing Persian berries.] (Chem.) A glucoside extracted from Persian berries as a yellow crystalline powder, used as a dyestuff.
+
+    [1913 Webster]
 
 Xanthorhiza
-    Xan`tho*rhi"za (?), n. [NL., fr. Gr. xanqo`s yellow + "ri`za root.] (Bot.) A genus of shrubby ranunculaceous plants of North America, including only the species Xanthorhiza apiifolia, which has roots of a deep yellow color; yellowroot. The bark is intensely bitter, and is sometimes used as a tonic.[1913 Webster]
+    Xan`tho*rhi"za, n. [NL., fr. Gr. ξανθός yellow + ῥίζα root.] (Bot.) A genus of shrubby ranunculaceous plants of North America, including only the species Xanthorhiza apiifolia, which has roots of a deep yellow color; yellowroot. The bark is intensely bitter, and is sometimes used as a tonic.
 
-    <-- p. 1671 -->[1913 Webster]
+    [1913 Webster]
+
+    <-- p. 1671 -->
+
+    [1913 Webster]
 
 Xanthorhoea
-    \'d8Xan`tho*rhoeἁ (?), n. [NL., from Gr. xanqo`s yellow + "rei^n to flow.] (Bot.) A genus of endogenous plants, native to Australia, having a thick, sometimes arborescent, stem, and long grasslike leaves. See Grass tree.[1913 Webster]
+    Xan`tho*rhoe"a, n. [NL., from Gr. ξανθός yellow + ῥεῖν to flow.] (Bot.) A genus of endogenous plants, native to Australia, having a thick, sometimes arborescent, stem, and long grasslike leaves. See Grass tree.
+
+    [1913 Webster]
 
 Xanthose
-    Xan"those (?), n. (Chem.) An orange-yellow substance found in pigment spots of certain crabs.[1913 Webster]
+    Xan"those, n. (Chem.) An orange-yellow substance found in pigment spots of certain crabs.
+
+    [1913 Webster]
 
 Xanthosis
-    \'d8Xan*tho"sis (?), n. [NL., fr. Gr. xanqo`s yellow.] (Med.) The yellow discoloration often observed in cancerous tumors.[1913 Webster]
+    Xan*tho"sis, n. [NL., fr. Gr. ξανθός yellow.] (Med.) The yellow discoloration often observed in cancerous tumors.
+
+    [1913 Webster]
 
 Xanthospermous
-    Xan`tho*sper"mous (?), a. [Xantho- + Gr. spe`rma sperm.] (Bot.) Having yellow seeds.[1913 Webster]
+    Xan`tho*sper"mous, a. [Xantho- + Gr. σπέρμα sperm.] (Bot.) Having yellow seeds.
+
+    [1913 Webster]
 
 Xanthous
-    Xan"thous (?), a. [Gr. xanqo`s yellow.] Yellow; specifically (Ethnol.), of or pertaining to those races of man which have yellowish, red, auburn, or brown hair.[1913 Webster]
+    Xan"thous, a. [Gr. ξανθός yellow.] Yellow; specifically (Ethnol.), of or pertaining to those races of man which have yellowish, red, auburn, or brown hair.
+
+    [1913 Webster]
 
 Xanthoxylene
-    Xan*thox"y*lene (?), n. [See Xanthoxylum.] (Chem.) A liquid hydrocarbon of the terpene series extracted from the seeds of a Japanese prickly ash (Xanthoxylum pipertium) as an aromatic oil.[1913 Webster]
+    Xan*thox"y*lene, n. [See Xanthoxylum.] (Chem.) A liquid hydrocarbon of the terpene series extracted from the seeds of a Japanese prickly ash (Xanthoxylum pipertium) as an aromatic oil.
+
+    [1913 Webster]
 
 Xanthoxylum
-    \'d8Xan*thox"y*lum (?), n. [NL., from Gr. xanqo`s yellow + xy`lon wood.] (Bot.) A genus of prickly shrubs or small trees, the bark and rots of which are of a deep yellow color; prickly ash.[1913 Webster]
+    Xan*thox"y*lum, n. [NL., from Gr. ξανθός yellow + ξύλον wood.] (Bot.) A genus of prickly shrubs or small trees, the bark and rots of which are of a deep yellow color; prickly ash.
 
-    ☞ The commonest species in the Northern United States is Xanthoxylum Americanum. See Prickly ash, under Prickly.[1913 Webster]
+    [1913 Webster]
+
+    ☞ The commonest species in the Northern United States is Xanthoxylum Americanum. See Prickly ash, under Prickly.
+
+    [1913 Webster]
 
 Xe
-    Xe (?), n. The chemical symbol for the chemical element xenon, having atomic number 54; it is one of the six noble gases.Syn. -- xenon.[WordNet 1.5]
+    Xe, n. The chemical symbol for the chemical element xenon, having atomic number 54; it is one of the six noble gases. Syn. -- xenon.
+
+    [WordNet 1.5]
 
 Xebec
-    Xe"bec (zē"bĕk), n. [Sp. jabegue, formerly spelt xabeque, or Pg. xabeco; both from Turk. sumbeki a kind of Asiatic ship; cf. Per. sumbuk, Ar. sumbūk a small ship.] (Naut.) A small three-masted vessel, with projecting bow and stern and convex decks, used in the Mediterranean for transporting merchandise, etc. It carries large square sails, or lateen sails, or both. Xebecs were formerly armed and used by corsairs.[1913 Webster]
+    Xe"bec (zē"bĕk), n. [Sp. jabegue, formerly spelt xabeque, or Pg. xabeco; both from Turk. sumbeki a kind of Asiatic ship; cf. Per. sumbuk, Ar. sumbūk a small ship.] (Naut.) A small three-masted vessel, with projecting bow and stern and convex decks, used in the Mediterranean for transporting merchandise, etc. It carries large square sails, or lateen sails, or both. Xebecs were formerly armed and used by corsairs.
+
+    [1913 Webster]
 
 Xeme
-    Xeme (zēm), n. (Zool.) An Arctic fork-tailed gull (Xema Sabinii).[1913 Webster]
+    Xeme (zēm), n. (Zool.) An Arctic fork-tailed gull (Xema Sabinii).
+
+    [1913 Webster]
 
 Xenarthra
-    Xen*ar"thra prop. n. The suborder of mammals including the armadillos, American anteaters, and sloths.Syn. -- suborder Xenarthra.[WordNet 1.5]
+    Xen*ar"thra prop. n. The suborder of mammals including the armadillos, American anteaters, and sloths. Syn. -- suborder Xenarthra.
+
+    [WordNet 1.5]
 
 Xenelasia
-    \'d8Xen`e*la"si*a (?), n. [NL., from Gr. xenhlasi`a expulsion of strangers.] (Gr. Antiq.) A Spartan institution which prohibited strangers from residing in Sparta without permission, its object probably being to preserve the national simplicity of manners.[1913 Webster]
+    Xen`e*la"si*a, n. [NL., from Gr. ξενηλασία expulsion of strangers.] (Gr. Antiq.) A Spartan institution which prohibited strangers from residing in Sparta without permission, its object probably being to preserve the national simplicity of manners.
+
+    [1913 Webster]
 
 Xenicidae
-    Xe*ni"ci*dae (?), pr. n. A natural family of birds comprising the New Zealand wrens, synonymous with Acanthisittidae.Syn. -- family Xenicidae, Acanthisittidae, family Acanthisittidae.[WordNet 1.5]
+    Xe*ni"ci*dae, pr. n. A natural family of birds comprising the New Zealand wrens, synonymous with Acanthisittidae. Syn. -- family Xenicidae, Acanthisittidae, family Acanthisittidae.
+
+    [WordNet 1.5]
 
 Xenicus
-    Xe"ni*cus (?), pr. n. The type genus for the bird family Xenicidae.Syn. -- genus Xenicus.[WordNet 1.5]
+    Xe"ni*cus, pr. n. The type genus for the bird family Xenicidae. Syn. -- genus Xenicus.
+
+    [WordNet 1.5]
 
 Xenium
-    \'d8Xe"ni*um (zē"nĭ*ŭm), n.; pl. Xenia (zē"nĭ*ȧ). [L., from Gr. xe`nion gift to a guest, fr. xe`nos guest.] (Class. Antiq.) A present given to a guest or stranger, or to a foreign ambassador.[1913 Webster]
+    Xe"ni*um (zē"nĭ*ŭm), n.; pl. Xenia (zē"nĭ*ȧ). [L., from Gr. ξένιον gift to a guest, fr. ξένος guest.] (Class. Antiq.) A present given to a guest or stranger, or to a foreign ambassador.
+
+    [1913 Webster]
 
 Xenodochium
-    \'d8Xen`o*do*chi"um (zĕn`o*do*kī"ŭm), n. [LL., fr. L. xenodochium a building for the reception of strangers, Gr. xenodochei^on .]
+    Xen`o*do*chi"um (zĕn`o*do*kī"ŭm), n. [LL., fr. L. xenodochium a building for the reception of strangers, Gr. ξενοδοχεῖον .]
 
     (a) (Class. Antiq.) A house for the reception of strangers.
 
-    (b) In the Middle Ages, a room in a monastery for the reception and entertainment of strangers and pilgrims, and for the relief of paupers. [Called also Xenodocheion.][1913 Webster]
+    (b) In the Middle Ages, a room in a monastery for the reception and entertainment of strangers and pilgrims, and for the relief of paupers. [Called also Xenodocheion.]
+
+    [1913 Webster]
 
 Xenodochy
-    Xe*nod"o*chy (?), n. [Gr. xenodochi`a.] Reception of strangers; hospitality. [R.][1913 Webster]
+    Xe*nod"o*chy, n. [Gr. ξενοδοχία.] Reception of strangers; hospitality. [R.]
+
+    [1913 Webster]
 
 Xenon
-    Xen"on (zĕn"ŏn; zē"nŏn), n. [Gr. xe`non, neut. of xe`nos strange.] (Chem.) A very heavy, inert gaseous element of the noble gas group, occurring in the atmosphere in the proportion of one volume is about 20 millions. It was discovered by Ramsay and Travers in 1898. It can be condensed to a liquid boiling at -107° C., and to a solid which melts at -111.9° C. Symbol Xe (formerly also X); atomic number 54; atomic weight 131.3.[Webster 1913 Suppl. +PJC]
+    Xen"on (zĕn"ŏn; zē"nŏn), n. [Gr. ξένον, neut. of ξένος strange.] (Chem.) A very heavy, inert gaseous element of the noble gas group, occurring in the atmosphere in the proportion of one volume is about 20 millions. It was discovered by Ramsay and Travers in 1898. It can be condensed to a liquid boiling at -107° C., and to a solid which melts at -111.9° C. Symbol Xe (formerly also X); atomic number 54; atomic weight 131.3.
+
+    [Webster 1913 Suppl. +PJC]
 
 Xenogamy
-    Xe*nogἁ*my (?), n. [Gr. xe`nos strange, foreign + gάmos marriage.] (Bot.) Cross fertilization.[1913 Webster]
+    Xe*nog"a*my, n. [Gr. ξένος strange, foreign + γάμος marriage.] (Bot.) Cross fertilization.
+
+    [1913 Webster]
 
 Xenogenesis
-    Xen`o*gen"e*sis (?), n. [Gr. xe`nos a stranger + E. genesis.] (Biol.)
+    Xen`o*gen"e*sis, n. [Gr. ξένος a stranger + E. genesis.] (Biol.)
 
     (a) Same as Heterogenesis.
 
-    (b) The fancied production of an organism of one kind by an organism of another. Huxley.[1913 Webster]
+    (b) The fancied production of an organism of one kind by an organism of another. Huxley.
+
+    [1913 Webster]
 
 Xenogenetic
-    Xen`o*ge*net"ic (?), a. (Biol.) Of or pertaining to xenogenesis; as, the xenogenetic origin of microzymes. Huxley.[1913 Webster]
+    Xen`o*ge*net"ic, a. (Biol.) Of or pertaining to xenogenesis; as, the xenogenetic origin of microzymes. Huxley.
+
+    [1913 Webster]
 
 Xenomania
-    Xen`o*ma"ni*a (?), n. [Gr. xe`nos strange + E. mania.] A mania for, or an inordinate attachment to, foreign customs, institutions, manners, fashions, etc. [R.] Saintsbury.[1913 Webster]
+    Xen`o*ma"ni*a, n. [Gr. ξένος strange + E. mania.] A mania for, or an inordinate attachment to, foreign customs, institutions, manners, fashions, etc. [R.] Saintsbury.
+
+    [1913 Webster]
 
 Xenomi
-    \'d8Xen"o*mi (?), prop. n. pl. [NL., from Gr. xe`nos strange.] (Zool.) A suborder of soft-rayed fresh-water fishes of which the blackfish of Alaska (Dallia pectoralis) is the type.[1913 Webster]
+    Xen"o*mi, prop. n. pl. [NL., from Gr. ξένος strange.] (Zool.) A suborder of soft-rayed fresh-water fishes of which the blackfish of Alaska (Dallia pectoralis) is the type.
+
+    [1913 Webster]
 
 Xenopterygii
-    \'d8Xe*nop`te*ryg"i*i (?), prop. n. pl. [NL., from Gr. xe`nos strange + ⸮, dim. of ⸮ a wing.] (Zool.) A suborder of fishes including Gobiesox and allied genera. These fishes have soft-rayed fins, and a ventral sucker supported in front by the pectoral fins. They are destitute of scales.[1913 Webster]
+    Xe*nop`te*ryg"i*i, prop. n. pl. [NL., from Gr. ξένος strange +, dim. of a wing.] (Zool.) A suborder of fishes including Gobiesox and allied genera. These fishes have soft-rayed fins, and a ventral sucker supported in front by the pectoral fins. They are destitute of scales.
+
+    [1913 Webster]
 
 Xenotime
-    Xen"o*time (?), n. [Gr. xeno`timos honoring guests or strangers; xe`nos guest, stranger + timh` honor: cf. G. xenotim.] (Min.) A native phosphate of yttrium occurring in yellowish-brown tetragonal crystals.[1913 Webster]
+    Xen"o*time, n. [Gr. ξενότιμος honoring guests or strangers; ξένος guest, stranger + τιμή honor: cf. G. xenotim.] (Min.) A native phosphate of yttrium occurring in yellowish-brown tetragonal crystals.
+
+    [1913 Webster]
 
 Xenurine
-    Xe*nu"rine (?), n. [Gr. xe`nos strange + o'yrά tail.] (Zool.) A cabassou.[1913 Webster]
+    Xe*nu"rine, n. [Gr. ξένος strange + οὐρά tail.] (Zool.) A cabassou.
+
+    [1913 Webster]
 
 Xenyl
-    Xen"yl (?), n. [Gr. xe`nos strange + -yl.] (Chem.) The radical characteristic of xenylic compounds.[1913 Webster]
+    Xen"yl, n. [Gr. ξένος strange + -yl.] (Chem.) The radical characteristic of xenylic compounds.
+
+    [1913 Webster]
 
 Xenylic
-    Xe*nyl"ic (?), a. (Chem.) Pertaining to, derived from, designating, certain amido compounds obtained by reducing certain nitro derivatives of diphenyl.[1913 Webster]
+    Xe*nyl"ic, a. (Chem.) Pertaining to, derived from, designating, certain amido compounds obtained by reducing certain nitro derivatives of diphenyl.
+
+    [1913 Webster]
 
 Xeraphim
-    Xerἁ*phim (?), n. [Pg. xarafin, xerafin, fr. Ar. ashrafī noble, the name of a gold coin.] An old money of account in Bombay, equal to three fifths of a rupee.[1913 Webster]
+    Xer"a*phim, n. [Pg. xarafin, xerafin, fr. Ar. ashrafī noble, the name of a gold coin.] An old money of account in Bombay, equal to three fifths of a rupee.
+
+    [1913 Webster]
 
 Xeres
-    Xer"es (?), n. Sherry. See Sherry.[1913 Webster]
+    Xer"es, n. Sherry. See Sherry.
+
+    [1913 Webster]
 
 Xerif
-    Xer"if (zĕr"ĭf), n. A shereef.[1913 Webster]
+    Xer"if (zĕr"ĭf), n. A shereef.
+
+    [1913 Webster]
 
 Xeriff
-    Xer"iff (zĕr"ĭf), n. [See Shereef.] A gold coin formerly current in Egypt and Turkey, of the value of about 9s. 6d., or about $2.30 (ca. 1900); -- also, in Morocco, a ducat.[1913 Webster]
+    Xer"iff (zĕr"ĭf), n. [See Shereef.] A gold coin formerly current in Egypt and Turkey, of the value of about 9s. 6d., or about $2.30 (ca. 1900); -- also, in Morocco, a ducat.
+
+    [1913 Webster]
 
 Xeroderma
-    \'d8Xe`ro*der"ma (?), n. [NL., fr. Gr. xhro`s dry + de`rma skin.] (Med.)
+    Xe`ro*der"ma, n. [NL., fr. Gr. ξηρός dry + δέρμα skin.] (Med.)
 
     (a) Ichthyosis.
 
-    (b) A skin disease characterized by the presence of numerous small pigmented spots resembling freckles, with which are subsequently mingled spots of atrophied skin.[1913 Webster]
+    (b) A skin disease characterized by the presence of numerous small pigmented spots resembling freckles, with which are subsequently mingled spots of atrophied skin.
+
+    [1913 Webster]
 
 Xeronate
-    Xe"ro*nate (?), n. (Chem.) A salt of xeronic acid.[1913 Webster]
+    Xe"ro*nate, n. (Chem.) A salt of xeronic acid.
+
+    [1913 Webster]
 
 Xeronic
-    Xe*ron"ic (?), a. [Gr. xhro`s dry + citraconic.] (Chem.) Pertaining to, or designating, an acid, C8H12O4, related to fumaric acid, and obtained from citraconic acid as an oily substance having a bittersweet taste; -- so called from its tendency to form its anhydride.[1913 Webster]
+    Xe*ron"ic, a. [Gr. ξηρός dry + citraconic.] (Chem.) Pertaining to, or designating, an acid, C8H12O4, related to fumaric acid, and obtained from citraconic acid as an oily substance having a bittersweet taste; -- so called from its tendency to form its anhydride.
+
+    [1913 Webster]
 
 Xerophagy
-    Xe*rophἁ*gy (?), n. [L. xerophagia, Gr. ⸮; xhro`s dry + ⸮ to eat.] Among the primitive Christians, the living on a diet of dry food in Lent and on other fasts.[1913 Webster]
+    Xe*roph"a*gy, n. [L. xerophagia, Gr.; ξηρός dry + to eat.] Among the primitive Christians, the living on a diet of dry food in Lent and on other fasts.
+
+    [1913 Webster]
 
 Xerophilous
-    Xe*roph"i*lous (?), a. [Gr. xhro`s dry + ⸮ to love.] (Bot.) Drought-loving; able withstand the absence or lack of moisture.[1913 Webster]
+    Xe*roph"i*lous, a. [Gr. ξηρός dry + to love.] (Bot.) Drought-loving; able withstand the absence or lack of moisture.
 
-    Plants which are peculiarly adapted to dry climates are termed by De Candolle xerophilous. [Goodale.][1913 Webster]
+    [1913 Webster]
+
+    Plants which are peculiarly adapted to dry climates are termed by De Candolle xerophilous. [Goodale.]
+
+    [1913 Webster]
 
 Xerophthalmia
-    \'d8Xe`roph*thal"mi*a (?), n. [L., fr. Gr. ⸮; xhro`s dry + ⸮ the eye. See Ophthalmia.] (Med.) An abnormal dryness of the eyeball produced usually by long-continued inflammation and subsequent atrophy of the conjunctiva.[1913 Webster]
+    Xe`roph*thal"mi*a, n. [L., fr. Gr.; ξηρός dry + the eye. See Ophthalmia.] (Med.) An abnormal dryness of the eyeball produced usually by long-continued inflammation and subsequent atrophy of the conjunctiva.
+
+    [1913 Webster]
 
 Xerophthalmy
-    Xe`roph*thal"my (?), n. (Med.) Xerophthalmia.[1913 Webster]
+    Xe`roph*thal"my, n. (Med.) Xerophthalmia.
+
+    [1913 Webster]
 
 Xerophyllum
-    Xe*ro"phyl*lum (?), pr. n. A small genus of North American herbs having grasslike basal leaves: squaw grass; sometimes placed in family Melanthiaceae.Syn. -- genus Xerophyllum.[WordNet 1.5]
+    Xe*ro"phyl*lum, pr. n. A small genus of North American herbs having grasslike basal leaves: squaw grass; sometimes placed in family Melanthiaceae. Syn. -- genus Xerophyllum.
+
+    [WordNet 1.5]
 
 xerophyte
-    xe"ro*phyte (?), n. A plant adapted for life with a limited supply of water; compare hydrophyte and mesophyte.Syn. -- desert plant, xerophytic plant, xerophile, xerophilous plant.[WordNet 1.5]
+    xe"ro*phyte, n. A plant adapted for life with a limited supply of water; compare hydrophyte and mesophyte. Syn. -- desert plant, xerophytic plant, xerophile, xerophilous plant.
+
+    [WordNet 1.5]
 
 xerophytic
-    xe`ro*phy"tic (?), adj.
+    xe`ro*phy"tic, adj.
 
-    1. (Botany) [Gr. xhro`s dry + fyto`n a plant.] Adapted to a xeric (or dry) environment; as, cacti are xerophytic plants; xerophytic adaptations.[WordNet 1.5]
+    1. (Botany) [Gr. ξηρός dry + φυτόν a plant.] Adapted to a xeric (or dry) environment; as, cacti are xerophytic plants; xerophytic adaptations.
+
+    [WordNet 1.5]
 
 Xerox
-    Xe"rox (?), n. [From a brand name of the Xerox corporation.] A copying machine which copies graphic matter by the action of light on an electrically charged photoconductive insulating surface in which the latent image is developed with a resinous powder.Syn. -- xerox, xerographic copier, xerox machine.[WordNet 1.5]
+    Xe"rox, n. [From a brand name of the Xerox corporation.] A copying machine which copies graphic matter by the action of light on an electrically charged photoconductive insulating surface in which the latent image is developed with a resinous powder. Syn. -- xerox, xerographic copier, xerox machine.
 
-    2. A copy made by the xerox process.Syn. -- xerox copy.[WordNet 1.5]
+    [WordNet 1.5]
+
+    2. A copy made by the xerox process. Syn. -- xerox copy.
+
+    [WordNet 1.5]
 
 xerox
-    xe"rox (?), v. t. To copy a printed document on a xerographic device.[WordNet 1.5]
+    xe"rox, v. t. To copy a printed document on a xerographic device.
+
+    [WordNet 1.5]
 
 xi
-    xi (?), adj. The Roman number symbolizing the value eleven. Used after a noun it may symbolize the ordinal number; as, Superbowl XI.Syn. -- eleven, 11.[WordNet 1.5]
+    xi, adj. The Roman number symbolizing the value eleven. Used after a noun it may symbolize the ordinal number; as, Superbowl XI. Syn. -- eleven, 11.
+
+    [WordNet 1.5]
 
 Xian
-    Xiἁn (?), pr. n. The capital of the ancient Chinese empire.Syn. -- Sian, Singan, Changan.[WordNet 1.5]
+    Xi"an, pr. n. The capital of the ancient Chinese empire. Syn. -- Sian, Singan, Changan.
+
+    [WordNet 1.5]
 
 xii
-    xii (?), adj. The Roman number symbolizing the value twelve; denoting a quantity consisting of 12 items or units. Used after a noun it may symbolize the ordinal number; as, Superbowl XII.Syn. -- twelve, 12, dozen.[WordNet 1.5]
+    xii, adj. The Roman number symbolizing the value twelve; denoting a quantity consisting of 12 items or units. Used after a noun it may symbolize the ordinal number; as, Superbowl XII. Syn. -- twelve, 12, dozen.
+
+    [WordNet 1.5]
 
 xiii
-    xiii (?), adj.
+    xiii, adj.
 
-    1. the Roman number symbolizing the value thirteen. Used after a noun it may symbolize the ordinal number; as, Superbowl XIII.Syn. -- thirteen, 13.[WordNet 1.5]
+    1. the Roman number symbolizing the value thirteen. Used after a noun it may symbolize the ordinal number; as, Superbowl XIII. Syn. -- thirteen, 13.
+
+    [WordNet 1.5]
 
 Xiphias
-    \'d8Xiph"i*as (?), prop. n. [L., a swordfish, a sword-shaped comet, fr. Gr. xifi`as, fr. xi`fos a sword.]
+    Xiph"i*as, prop. n. [L., a swordfish, a sword-shaped comet, fr. Gr. ξιφίας, fr. ξίφος a sword.]
 
-    1. (Zool.) A genus of fishes comprising the common swordfish.[1913 Webster]
+    1. (Zool.) A genus of fishes comprising the common swordfish.
+
+    [1913 Webster]
 
     2. (Anat.)
 
     (a) The constellation Dorado.
 
-    (b) A comet shaped like a sword[1913 Webster]
+    (b) A comet shaped like a sword
+
+    [1913 Webster]
 
 Xiphidium
-    \'d8Xi*phid"i*um (?), prop. n. [NL., from Gr. ⸮, dim. of xi`fos sword.] (Bot.) A genus of plants of the order Haemodraceae, having two-ranked, sword-shaped leaves.[1913 Webster]
+    Xi*phid"i*um, prop. n. [NL., from Gr., dim. of ξίφος sword.] (Bot.) A genus of plants of the order Haemodraceae, having two-ranked, sword-shaped leaves.
+
+    [1913 Webster]
 
 Xiphioid
-    Xiph"i*oid (?), a. [Xiphius + -oid.] (Zool.) Of, pertaining to, or resembling, a cetacean of the genus Xiphius or family Xiphiidae.[1913 Webster]
+    Xiph"i*oid, a. [Xiphius + -oid.] (Zool.) Of, pertaining to, or resembling, a cetacean of the genus Xiphius or family Xiphiidae.
+
+    [1913 Webster]
 
 Xiphiplastron
-    \'d8Xiph"i*plas"tron (?), n.; pl. Xiphiplastra (?). [NL., fr. Gr. xi`fos a sword + plastron.] (Anat.) The posterior, or fourth, lateral plate in the plastron of turtles; -- called also xiphisternum.[1913 Webster]
+    Xiph"i*plas"tron, n.; pl. Xiphiplastra. [NL., fr. Gr. ξίφος a sword + plastron.] (Anat.) The posterior, or fourth, lateral plate in the plastron of turtles; -- called also xiphisternum.
+
+    [1913 Webster]
 
 Xiphisternum
-    \'d8Xiph"i*ster"num (?), n.; pl. Xiphisterna (?). [NL., fr. Gr. xi`fos a sword + sternum.] (Anat.)
+    Xiph"i*ster"num, n.; pl. Xiphisterna. [NL., fr. Gr. ξίφος a sword + sternum.] (Anat.)
 
     (a) The posterior segment, or extremity, of the sternum; -- sometimes called metasternum, ensiform cartilage, ensiform process, or xiphoid process.
 
-    (b) The xiphiplastron. -- Xiph"i*ster"nal (?) a.[1913 Webster]
+    (b) The xiphiplastron. -- Xiph"i*ster"nal a.
+
+    [1913 Webster]
 
 Xiphius
-    \'d8Xiph"i*us (?), n. [NL., fr. Gr. xi`fos a sword.] (Zool.) A genus of cetaceans having a long, pointed, bony beak, usually two tusklike teeth in the lower jaw, but no teeth in the upper jaw.[1913 Webster]
+    Xiph"i*us, n. [NL., fr. Gr. ξίφος a sword.] (Zool.) A genus of cetaceans having a long, pointed, bony beak, usually two tusklike teeth in the lower jaw, but no teeth in the upper jaw.
+
+    [1913 Webster]
 
 Xiphodon
-    Xiph"o*don (?), n. [Gr. xi`fos a sword + 'odoy`s, 'odo`ntos, a tooth.] (Paleon.) An extinct genus of artiodactylous mammals found in the European Tertiary formations. It had slender legs, didactylous feet, and small canine teeth.[1913 Webster]
+    Xiph"o*don, n. [Gr. ξίφος a sword + ὀδούς, ὀδόντος, a tooth.] (Paleon.) An extinct genus of artiodactylous mammals found in the European Tertiary formations. It had slender legs, didactylous feet, and small canine teeth.
+
+    [1913 Webster]
 
 Xiphoid
-    Xiph"oid (?; 277), a. [Gr. xifoeidh`s sword-shaped; xi`fos a sword + e`i^dos form, shape: cf. F. xiphoide.] (Anat.)
+    Xiph"oid (?; 277), a. [Gr. ξιφοειδής sword-shaped; ξίφος a sword + έῖδος form, shape: cf. F. xiphoide.] (Anat.)
 
     (a) Like a sword; ensiform.
 
-    (b) Of or pertaining to the xiphoid process; xiphoidian.[1913 Webster]
+    (b) Of or pertaining to the xiphoid process; xiphoidian.
+
+    [1913 Webster]
 
 Xiphoidian
-    Xiph*oid"i*an (?), a. (Anat.) Xiphoid.[1913 Webster]
+    Xiph*oid"i*an, a. (Anat.) Xiphoid.
+
+    [1913 Webster]
 
 Xiphophyllous
-    Xi*phoph"yl*lous (?), a. [Gr. xi`fos sword + fy`llon leaf.] (Bot.) Having sword-shaped leaves.[1913 Webster]
+    Xi*phoph"yl*lous, a. [Gr. ξίφος sword + φύλλον leaf.] (Bot.) Having sword-shaped leaves.
+
+    [1913 Webster]
 
 Xiphosura
-    \'d8Xiph`o*su"ra (?), n. pl. See Xiphura.[1913 Webster]
+    Xiph`o*su"ra, n. pl. See Xiphura.
+
+    [1913 Webster]
 
 Xiphura
-    \'d8Xi*phu"ra (?), n. pl. [NL., from Gr. xi`fos sword + o'yrά tail.] (Zool.) Same as Limuloidea. Called also Xiphosura.[1913 Webster]
+    Xi*phu"ra, n. pl. [NL., from Gr. ξίφος sword + οὐρά tail.] (Zool.) Same as Limuloidea. Called also Xiphosura.
+
+    [1913 Webster]
 
 xl
-    xl (?), adj.
+    xl, adj.
 
-    1. the Roman number symbolizing the value forty.Syn. -- forty, 40, twoscore.[WordNet 1.5]
+    1. the Roman number symbolizing the value forty. Syn. -- forty, 40, twoscore.
+
+    [WordNet 1.5]
 
 Xmas
-    X"mas (?), n. Christmas; -- an abbreviation for the Christian holiday celebrating the birth of Christ; a quarter day in England, Wales, and Ireland.Syn. -- Christmas, Christmas Day, Dec 25.[WordNet 1.5]
+    X"mas, n. Christmas; -- an abbreviation for the Christian holiday celebrating the birth of Christ; a quarter day in England, Wales, and Ireland. Syn. -- Christmas, Christmas Day, Dec 25.
+
+    [WordNet 1.5]
 
 XP
-    XP (?). [Belongs here in appearance only.] The first two letters of the Greek word CHRISTOS, Christ; -- an abbreviation used with the letters separate or, oftener, in a monogram, often inclosed in a circle, as a symbol or emblem of Christ. It use as an emblem was introduced by Constantine the Great, whence it is known as the
-    Constantinian symbol, or
-    monogram. See Labarum.[Webster 1913 Suppl.]
+    XP. [Belongs here in appearance only.] The first two letters of the Greek word ΧΡΙΣΤΟΣ, Christ; -- an abbreviation used with the letters separate or, oftener, in a monogram, often inclosed in a circle, as a symbol or emblem of Christ. It use as an emblem was introduced by Constantine the Great, whence it is known as the
+    -- Constantinian symbol, or
+    -- monogram. See Labarum.
+
+    [Webster 1913 Suppl.]
 
 x-rated
-    x"-rat`ed (ĕks"rāt`ĕd), a. [from a system of ratings for movies based on objectionableness of the content or suitability for children.] having a rating of X; not suitable for children; broadly, obscene or sexually explicit.[PJC]
+    x"-rat`ed (ĕks"rāt`ĕd), a. [from a system of ratings for movies based on objectionableness of the content or suitability for children.] having a rating of X; not suitable for children; broadly, obscene or sexually explicit.
+
+    [PJC]
 
 X-ray
-    X rayX ray, X-ray (ĕks"rā`), n. [so called by its discoverer because of its enigmatical character, x being an algebraic symbol for an unknown quantity.] (Physics) Originally, any of the rays produced when cathode rays strike upon surface of a solid (as a copper target or the wall of the vacuum tube); now defined as electromagnetic radiation with a wavelength of 0.1 to 10 nanometers. X-rays are noted for their penetration of many opaque substances, as wood and flesh, their action on photographic plates, and their fluorescent effects. They were called X rays by their discoverer, W. K. Röntgen, but were also referred to for some time as Roentgen rays. The term X-ray has become the most common designation. They also ionize gases, but cannot be reflected, or polarized, or deflected by a magnetic field. They are used in examining objects opaque to visible light, as for imaging bones or other structures inside the human body, and for detecting flaws in metal objects, such as in welds.[Webster 1913 Suppl. +PJC]
+    X ray, X-ray (ĕks"rā`), n. [so called by its discoverer because of its enigmatical character, x being an algebraic symbol for an unknown quantity.] (Physics) Originally, any of the rays produced when cathode rays strike upon surface of a solid (as a copper target or the wall of the vacuum tube); now defined as electromagnetic radiation with a wavelength of 0.1 to 10 nanometers. X-rays are noted for their penetration of many opaque substances, as wood and flesh, their action on photographic plates, and their fluorescent effects. They were called X rays by their discoverer, W. K. Röntgen, but were also referred to for some time as Roentgen rays. The term X-ray has become the most common designation. They also ionize gases, but cannot be reflected, or polarized, or deflected by a magnetic field. They are used in examining objects opaque to visible light, as for imaging bones or other structures inside the human body, and for detecting flaws in metal objects, such as in welds.
+
+    [Webster 1913 Suppl. +PJC]
 
 X-ray
-    X rayX ray, X-ray (ĕks"rā`), v. t. To examine by means of X-rays; to irradiate with X-rays.[PJC]
+    X ray, X-ray (ĕks"rā`), v. t. To examine by means of X-rays; to irradiate with X-rays.
+
+    [PJC]
 
 X-ray astronomy
-    X"-ray` astronomy. The branch of astronomy dealing with the study of astronomical objects which emit X-rays, and the methods used to detect such objects.[PJC]
+    X"-ray` astronomy. The branch of astronomy dealing with the study of astronomical objects which emit X-rays, and the methods used to detect such objects.
+
+    [PJC]
 
 X-ray tube
-    X"-ray` tube. (Physics) A vacuum tube suitable for producing Roentgen rays.[Webster 1913 Suppl.]
+    X"-ray` tube. (Physics) A vacuum tube suitable for producing Roentgen rays.
+
+    [Webster 1913 Suppl.]
 
 XT
-    XT (?), n. (Electronics) An abbreviation for crosstalk, the presence of an unwanted signal via an accidental coupling. [abbrev.] Syn. -- crosstalk.[WordNet 1.5]
+    XT, n. (Electronics) An abbreviation for crosstalk, the presence of an unwanted signal via an accidental coupling. [abbrev.] Syn. -- crosstalk.
+
+    [WordNet 1.5]
 
 xv
-    xv (?), adj. The Roman number symbolizing the value fifteen.Syn. -- fifteen, 15.[WordNet 1.5]
+    xv, adj. The Roman number symbolizing the value fifteen. Syn. -- fifteen, 15.
+
+    [WordNet 1.5]
 
 xvi
-    xvi (?), adj. The Roman number symbolizing the value sixteen.Syn. -- sixteen, 16.[WordNet 1.5]
+    xvi, adj. The Roman number symbolizing the value sixteen. Syn. -- sixteen, 16.
+
+    [WordNet 1.5]
 
 xvii
-    xvii (?), adj. The Roman number symbolizing the value seventeen.Syn. -- seventeen, 17.[WordNet 1.5]
+    xvii, adj. The Roman number symbolizing the value seventeen. Syn. -- seventeen, 17.
+
+    [WordNet 1.5]
 
 xviii
-    xviii (?), adj. The Roman number symbolizing the value eighteen.Syn. -- eighteen, 18.[WordNet 1.5]
+    xviii, adj. The Roman number symbolizing the value eighteen. Syn. -- eighteen, 18.
+
+    [WordNet 1.5]
 
 xx
-    xx (?), adj. The Roman number representing twenty; denoting a quantity consisting of 20 items or units.Syn. -- twenty, 20, score.[WordNet 1.5]
+    xx, adj. The Roman number representing twenty; denoting a quantity consisting of 20 items or units. Syn. -- twenty, 20, score.
+
+    [WordNet 1.5]
 
 xxi
-    xxi (?), adj. The Roman number representing twenty-one.Syn. -- twenty-one, 21.[WordNet 1.5]
+    xxi, adj. The Roman number representing twenty-one. Syn. -- twenty-one, 21.
+
+    [WordNet 1.5]
 
 xxii
-    xxii (?), adj. The Roman number representing twenty-two.Syn. -- twenty-two, 22.[WordNet 1.5]
+    xxii, adj. The Roman number representing twenty-two. Syn. -- twenty-two, 22.
+
+    [WordNet 1.5]
 
 xxiii
-    xxiii (?), adj. The Roman number representing twenty-three.Syn. -- twenty-three, 23.[WordNet 1.5]
+    xxiii, adj. The Roman number representing twenty-three. Syn. -- twenty-three, 23.
+
+    [WordNet 1.5]
 
 xxiv
-    xxiv (?), adj. The Roman number representing twenty-four.Syn. -- twenty-four, 24.[WordNet 1.5]
+    xxiv, adj. The Roman number representing twenty-four. Syn. -- twenty-four, 24.
+
+    [WordNet 1.5]
 
 xxix
-    xxix (?), adj. The Roman number representing twenty-nine.Syn. -- twenty-nine, 29.[WordNet 1.5]
+    xxix, adj. The Roman number representing twenty-nine. Syn. -- twenty-nine, 29.
+
+    [WordNet 1.5]
 
 xxv
-    xxv (?), adj. The Roman number representing twenty-five.Syn. -- twenty-five, 25.[WordNet 1.5]
+    xxv, adj. The Roman number representing twenty-five. Syn. -- twenty-five, 25.
+
+    [WordNet 1.5]
 
 xxvi
-    xxvi (?), adj. The Roman number representing twenty-six.Syn. -- twenty-six, 26.[WordNet 1.5]
+    xxvi, adj. The Roman number representing twenty-six. Syn. -- twenty-six, 26.
+
+    [WordNet 1.5]
 
 xxvii
-    xxvii (?), adj. The Roman number representing twenty-seven.Syn. -- twenty-seven, 27.[WordNet 1.5]
+    xxvii, adj. The Roman number representing twenty-seven. Syn. -- twenty-seven, 27.
+
+    [WordNet 1.5]
 
 xxviii
-    xxviii (?), adj. The Roman number representing twenty-eight.Syn. -- twenty-eight, 28.[WordNet 1.5]
+    xxviii, adj. The Roman number representing twenty-eight. Syn. -- twenty-eight, 28.
+
+    [WordNet 1.5]
 
 xxx
-    xxx (?), adj. The Roman number representing thirty; -- in the postposition, designating the thirtieth in a series.Syn. -- thirty, 30.[WordNet 1.5]
+    xxx, adj. The Roman number representing thirty; -- in the postposition, designating the thirtieth in a series. Syn. -- thirty, 30.
+
+    [WordNet 1.5]
 
 xxx
-    xxx (?), adj. [by reduplication of the "X" used in some movie-rating systems.] Very obscene or pornographic.Syn. -- X-rated, obscene, pornographic.[WordNet 1.5]
+    xxx, adj. [by reduplication of the "X" used in some movie-rating systems.] Very obscene or pornographic. Syn. -- X-rated, obscene, pornographic.
+
+    [WordNet 1.5]
 
 Xylamide
-    Xy*lam"ide (?), n. [Xylic + amide.] (Chem.) An acid amide derivative of xylic acid, obtained as a white crystalline substance.[1913 Webster]
+    Xy*lam"ide, n. [Xylic + amide.] (Chem.) An acid amide derivative of xylic acid, obtained as a white crystalline substance.
+
+    [1913 Webster]
 
 Xylan
-    Xy"lan (?), n. (Chem.) A gummy substance of the pentosan class, present in woody tissue, and yielding xylose on hydrolysis; wood gum.[Webster 1913 Suppl.]
+    Xy"lan, n. (Chem.) A gummy substance of the pentosan class, present in woody tissue, and yielding xylose on hydrolysis; wood gum.
+
+    [Webster 1913 Suppl.]
 
 Xylanthrax
-    Xy*lan"thrax (?), n. [Gr. xy`lon wood + ἄnqrax coal.] Wood coal, or charcoal; -- so called in distinction from mineral coal.[1913 Webster]
+    Xy*lan"thrax, n. [Gr. ξύλον wood + ἄνθραξ coal.] Wood coal, or charcoal; -- so called in distinction from mineral coal.
+
+    [1913 Webster]
 
 Xylaria
-    Xy*la"ria (?), pr. n. The type genus of the natural family Xylariaceae; fungi with perithecia in the upper part of erect black woody stromata.Syn. -- genus Xylaria.[WordNet 1.5]
+    Xy*la"ria, pr. n. The type genus of the natural family Xylariaceae; fungi with perithecia in the upper part of erect black woody stromata. Syn. -- genus Xylaria.
+
+    [WordNet 1.5]
 
 Xylariaceae
-    Xy*la'ri*a"ce*ae pr. n. A natural family of fungi characterized by dark brown to back spores.Syn. -- family Xylariaceae.[WordNet 1.5]
+    Xy*la'ri*a"ce*ae pr. n. A natural family of fungi characterized by dark brown to back spores. Syn. -- family Xylariaceae.
+
+    [WordNet 1.5]
 
 Xylate
-    Xy"late (?), n. (Chem.) A salt of xylic acid.[1913 Webster]
+    Xy"late, n. (Chem.) A salt of xylic acid.
+
+    [1913 Webster]
 
 Xylem
-    Xy"lem (?), n. [Gr. xy`lon wood.] (Bot.) That portion of a fibrovascular bundle which has developed, or will develop, into wood cells; -- distinguished from phloem.[1913 Webster]
+    Xy"lem, n. [Gr. ξύλον wood.] (Bot.) That portion of a fibrovascular bundle which has developed, or will develop, into wood cells; -- distinguished from phloem.
+
+    [1913 Webster]
 
 Xylene
-    Xy"lene (?), n. [Gr. xy`lon wood.] (Chem.) Any of a group of three metameric hydrocarbons of the aromatic series, found in coal and wood tar, and so named because found in crude wood spirit. They are colorless, oily, inflammable liquids, C6H4.(CH3)2, being dimethyl benzenes, and are called respectively orthoxylene, metaxylene, and paraxylene. Called also xylol.[1913 Webster]
+    Xy"lene, n. [Gr. ξύλον wood.] (Chem.) Any of a group of three metameric hydrocarbons of the aromatic series, found in coal and wood tar, and so named because found in crude wood spirit. They are colorless, oily, inflammable liquids, C6H4.(CH3)2, being dimethyl benzenes, and are called respectively orthoxylene, metaxylene, and paraxylene. Called also xylol.
 
-    ☞ Each of these xylenes is the nucleus and prototype of a distinct series of compounds.[1913 Webster]
+    [1913 Webster]
+
+    ☞ Each of these xylenes is the nucleus and prototype of a distinct series of compounds.
+
+    [1913 Webster]
 
 Xylenol
-    Xy"le*nol (?), n. [Xylene + -ol.] (Chem.) Any one of six metameric phenol derivatives of xylene, obtained as crystalline substances, (CH3)2.C6H3.OH.[1913 Webster]
+    Xy"le*nol, n. [Xylene + -ol.] (Chem.) Any one of six metameric phenol derivatives of xylene, obtained as crystalline substances, (CH3)2.C6H3.OH.
+
+    [1913 Webster]
 
 Xyletic
-    Xy*let"ic (?), a. (Chem.) Pertaining to, or designating, a complex acid related to mesitylenic acid, obtained as a white crystalline substance by the action of sodium and carbon dioxide on crude xylenol.[1913 Webster]
+    Xy*let"ic, a. (Chem.) Pertaining to, or designating, a complex acid related to mesitylenic acid, obtained as a white crystalline substance by the action of sodium and carbon dioxide on crude xylenol.
+
+    [1913 Webster]
 
 Xylic
-    Xy"lic (?), a. (Chem.) Pertaining to, derived from, or related to, xylene; specifically, designating any one of several metameric acids produced by the partial oxidation of mesitylene and pseudo-cumene.[1913 Webster]
+    Xy"lic, a. (Chem.) Pertaining to, derived from, or related to, xylene; specifically, designating any one of several metameric acids produced by the partial oxidation of mesitylene and pseudo-cumene.
+
+    [1913 Webster]
 
 Xylidic
-    Xy*lid"ic (?), a. (Chem.) Pertaining to, or designating, either one of two distinct acids which are derived from xylic acid and related compounds, and are metameric with uvitic acid.[1913 Webster]
+    Xy*lid"ic, a. (Chem.) Pertaining to, or designating, either one of two distinct acids which are derived from xylic acid and related compounds, and are metameric with uvitic acid.
+
+    [1913 Webster]
 
 Xylidine
-    Xy"li*dine (?), n. (Chem.) Any one of six metameric hydrocarbons, (CH3)2.C6H3.NH2, resembling aniline, and related to xylene. They are liquids, or easily fusible crystalline substances, of which three are derived from metaxylene, two from orthoxylene, and one from paraxylene. They are called the amido xylenes.[1913 Webster]
+    Xy"li*dine, n. (Chem.) Any one of six metameric hydrocarbons, (CH3)2.C6H3.NH2, resembling aniline, and related to xylene. They are liquids, or easily fusible crystalline substances, of which three are derived from metaxylene, two from orthoxylene, and one from paraxylene. They are called the amido xylenes.
 
-    ☞ The xylidine of commerce, used in making certain dyes, consists chiefly of the derivatives of paraxylene and metaxylene.[1913 Webster]
+    [1913 Webster]
+
+    ☞ The xylidine of commerce, used in making certain dyes, consists chiefly of the derivatives of paraxylene and metaxylene.
+
+    [1913 Webster]
 
 Xylindein
-    Xy*lin"de*in (?), n. (Chem.) A green or blue pigment produced by Peziza in certain kinds of decayed wood, as the beech, oak, birch, etc., and extracted as an amorphous powder resembling indigo.[1913 Webster]
+    Xy*lin"de*in, n. (Chem.) A green or blue pigment produced by Peziza in certain kinds of decayed wood, as the beech, oak, birch, etc., and extracted as an amorphous powder resembling indigo.
+
+    [1913 Webster]
 
 Xylite
-    Xy"lite (?), n. [Gr. xy`lon wood.] (Chem.) A liquid hydrocarbon found in crude wood spirits.[1913 Webster]
+    Xy"lite, n. [Gr. ξύλον wood.] (Chem.) A liquid hydrocarbon found in crude wood spirits.
+
+    [1913 Webster]
 
 Xylitone
-    Xy"li*tone (?), n. (Chem.) A yellow oil having a geraniumlike odor, produced as a side product in making phorone; -- called also xylite oil.[1913 Webster]
+    Xy"li*tone, n. (Chem.) A yellow oil having a geraniumlike odor, produced as a side product in making phorone; -- called also xylite oil.
+
+    [1913 Webster]
 
 Xylo-
-    Xy"lo- (?). A combining form from Gr. xy`lon wood; as in xylogen, xylograph.[1913 Webster]
+    Xy"lo-. A combining form from Gr. ξύλον wood; as in xylogen, xylograph.
+
+    [1913 Webster]
 
 Xylobalsamum
-    \'d8Xy`lo*bal"sa*mum (?), n. [NL., fr. Gr. xy`lon wood + bάlsamon the balsam tree, balsam; cf. L. xylobalsamum balsam wood, Gr. xylobάlsamon.] (Med.) The dried twigs of a Syrian tree (Balsamodendron Gileadense). U. S. Disp.[1913 Webster]
+    Xy`lo*bal"sa*mum, n. [NL., fr. Gr. ξύλον wood + βάλσαμον the balsam tree, balsam; cf. L. xylobalsamum balsam wood, Gr. ξυλοβάλσαμον.] (Med.) The dried twigs of a Syrian tree (Balsamodendron Gileadense). U. S. Disp.
+
+    [1913 Webster]
 
 Xylocarpous
-    Xy`lo*car"pous (?), a. [Xylo- + Gr. karpo`s fruit.] (Bot.) Bearing fruit which becomes hard or woody.[1913 Webster]
+    Xy`lo*car"pous, a. [Xylo- + Gr. καρπός fruit.] (Bot.) Bearing fruit which becomes hard or woody.
+
+    [1913 Webster]
 
 Xylocopa
-    \'d8Xy*loc"o*pa (?), n. [NL., fr. Gr. ⸮ cutting wood; xy`lon wood + ⸮ to cut.] (Zool.) A genus of hymenopterous insects including the carpenter. See Carpenter bee, under Carpenter. -- Xy*loc"o*pine (?), a.[1913 Webster]
+    Xy*loc"o*pa, n. [NL., fr. Gr. cutting wood; ξύλον wood + to cut.] (Zool.) A genus of hymenopterous insects including the carpenter. See Carpenter bee, under Carpenter. -- Xy*loc"o*pine, a.
+
+    [1913 Webster]
 
 Xylogen
-    Xy"lo*gen (?), n. [Xylo- + -gen.]
+    Xy"lo*gen, n. [Xylo- + -gen.]
 
     (a) (Bot.) Nascent wood; wood cells in a forming state.
 
-    (b) Lignin.[1913 Webster]
+    (b) Lignin.
+
+    [1913 Webster]
 
 Xylograph
-    Xy"lo*graph (?), n. [Xylo- + -graph.] An engraving on wood, or the impression from such an engraving; a print by xylography.[1913 Webster]
+    Xy"lo*graph, n. [Xylo- + -graph.] An engraving on wood, or the impression from such an engraving; a print by xylography.
+
+    [1913 Webster]
 
 Xylographer
-    Xy*log"ra*pher (?), n. One who practices xylography.[1913 Webster]
+    Xy*log"ra*pher, n. One who practices xylography.
+
+    [1913 Webster]
 
 Xylographical
-    XylographicXy`lo*graph"ic (?), Xy`lo*graph"ic*al (?),] a. [Cf. F. xylographique.] Of or pertaining to xylography, or wood engraving.[1913 Webster]
+    Xy`lo*graph"ic, Xy`lo*graph"ic*al, a. [Cf. F. xylographique.] Of or pertaining to xylography, or wood engraving.
+
+    [1913 Webster]
 
 Xylography
-    Xy*log"ra*phy (?), n. [Xylo- + -graphy: cf. F. xylographie.][1913 Webster]
+    Xy*log"ra*phy, n. [Xylo- + -graphy: cf. F. xylographie.]
 
-    1. The art of engraving on wood.[1913 Webster]
+    [1913 Webster]
 
-    2. The art of making prints from the natural grain of wood. Knight.[1913 Webster]
+    1. The art of engraving on wood.
 
-    3. A method pf printing in colors upon wood for purposes of house decoration. Ure.[1913 Webster]
+    [1913 Webster]
+
+    2. The art of making prints from the natural grain of wood. Knight.
+
+    [1913 Webster]
+
+    3. A method pf printing in colors upon wood for purposes of house decoration. Ure.
+
+    [1913 Webster]
 
 Xyloid
-    Xy"loid (?), a. [Xylo- + -oid.] Resembling wood; having the nature of wood.[1913 Webster]
+    Xy"loid, a. [Xylo- + -oid.] Resembling wood; having the nature of wood.
+
+    [1913 Webster]
 
 Xyloidin
-    Xy*loid"in (?), n. [Xylo- + -oid.] (Chem.) A substance resembling pyroxylin, obtained by the action of nitric acid on starch; -- called also nitramidin.[1913 Webster]
+    Xy*loid"in, n. [Xylo- + -oid.] (Chem.) A substance resembling pyroxylin, obtained by the action of nitric acid on starch; -- called also nitramidin.
+
+    [1913 Webster]
 
 Xylol
-    Xy"lol (?), n. [Xylo- + L. oleum oil.] (Chem.) Same as Xylene.[1913 Webster]
+    Xy"lol, n. [Xylo- + L. oleum oil.] (Chem.) Same as Xylene.
+
+    [1913 Webster]
 
 Xylology
-    Xy*lol"o*gy (?), n. [Pref. xylo- + -logy.] The branch of dendrology treating of the gross and minute structure of wood.[Webster 1913 Suppl.]
+    Xy*lol"o*gy, n. [Pref. xylo- + -logy.] The branch of dendrology treating of the gross and minute structure of wood.
+
+    [Webster 1913 Suppl.]
 
 Xylonite
-    Xy"lon*ite (?), n. See Zylonite.[1913 Webster]
+    Xy"lon*ite, n. See Zylonite.
+
+    [1913 Webster]
 
 Xylophaga
-    \'d8Xy*lophἁ*ga (?), prop. n. [NL. See Xylophagous.] (Zool.) A genus of marine bivalves which bore holes in wood. They are allied to Pholas.[1913 Webster]
+    Xy*loph"a*ga, prop. n. [NL. See Xylophagous.] (Zool.) A genus of marine bivalves which bore holes in wood. They are allied to Pholas.
+
+    [1913 Webster]
 
 Xylophagan
-    Xy*lophἁ*gan (?), n. [See Xylophagous.] (Zool.)
+    Xy*loph"a*gan, n. [See Xylophagous.] (Zool.)
 
     (a) One of a tribe of beetles whose larvae bore or live in wood.
 
     (b) Any species of Xylophaga.
 
-    (c) Any one of the Xylophagides.[1913 Webster]
+    (c) Any one of the Xylophagides.
+
+    [1913 Webster]
 
 Xylophagides
-    \'d8Xy`lo*phag"i*des (?), prop. n. pl. [See Xylophagous.] (Zool.) A tribe or family of dipterous flies whose larvae live in decayed wood. Some of the tropical species are very large.[1913 Webster]
+    Xy`lo*phag"i*des, prop. n. pl. [See Xylophagous.] (Zool.) A tribe or family of dipterous flies whose larvae live in decayed wood. Some of the tropical species are very large.
+
+    [1913 Webster]
 
 Xylophagous
-    Xy*lophἁ*gous (?), a. [Gr. xylofάgos eating wood; xy`lon wood + fagei^n to eat.] (Zool.)
+    Xy*loph"a*gous, a. [Gr. ξυλοφάγος eating wood; ξύλον wood + φαγεῖν to eat.] (Zool.)
 
     (a) Eating, boring in, or destroying, wood; -- said especially of certain insect larvae, crustaceans, and mollusks.
 
-    (b) Of or pertaining to the genus Xylophaga.[1913 Webster]
+    (b) Of or pertaining to the genus Xylophaga.
+
+    [1913 Webster]
 
 Xylophilan
-    Xy*loph"i*lan (?), n. [See Xylophilous.] (Zool.) One of a tribe of beetles (Xylophili) whose larvae live on decayed wood.[1913 Webster]
+    Xy*loph"i*lan, n. [See Xylophilous.] (Zool.) One of a tribe of beetles (Xylophili) whose larvae live on decayed wood.
+
+    [1913 Webster]
 
 Xylophilous
-    Xy*loph"i*lous (?), a. [Xylo- + Gr. filei^n to love.] (Zool.) Of or pertaining to the xylophilans.[1913 Webster]
+    Xy*loph"i*lous, a. [Xylo- + Gr. φιλεῖν to love.] (Zool.) Of or pertaining to the xylophilans.
+
+    [1913 Webster]
 
 Xylophone
-    Xy"lo*phone (?), n. [Xylo- + Gr. fwnh` sound.][1913 Webster]
+    Xy"lo*phone, n. [Xylo- + Gr. φωνή sound.]
 
-    1. (Mus.) Originally, an instrument common among the Russians, Poles, and Tartars, consisting of a series of strips of wood or glass graduated in length to the musical scale, resting on belts of straw, and struck with two small hammers; now any similar musical instrument composed of a series of bars of graduated length. Called in Germany strohfiedel, or straw fiddle.[1913 Webster +PJC]
+    [1913 Webster]
 
-    2. An instrument to determine the vibrative properties of different kinds of wood. Knight.[1913 Webster]
+    1. (Mus.) Originally, an instrument common among the Russians, Poles, and Tartars, consisting of a series of strips of wood or glass graduated in length to the musical scale, resting on belts of straw, and struck with two small hammers; now any similar musical instrument composed of a series of bars of graduated length. Called in Germany strohfiedel, or straw fiddle.
+
+    [1913 Webster +PJC]
+
+    2. An instrument to determine the vibrative properties of different kinds of wood. Knight.
+
+    [1913 Webster]
 
 Xyloplastic
-    Xy`lo*plas"tic (?), a. [Xylo- + -plastic.] (Technol.) Formed of wood pulp by molds; relating to casts made of wood pulp in molds.[1913 Webster]
+    Xy`lo*plas"tic, a. [Xylo- + -plastic.] (Technol.) Formed of wood pulp by molds; relating to casts made of wood pulp in molds.
+
+    [1913 Webster]
 
 Xylopyrography
-    Xy`lo*py*rog"ra*phy (?). n. [Xylo- + Gr. ⸮, ⸮, fire + -graphy.] The art or practice of burning pictures on wood with a hot iron; -- called also wood burning and poker painting. See Poker picture, under Poker.[1913 Webster + PJC]
+    Xy`lo*py*rog"ra*phy. n. [Xylo- + Gr.,, fire + -graphy.] The art or practice of burning pictures on wood with a hot iron; -- called also wood burning and poker painting. See Poker picture, under Poker.
 
-    <-- p. 1672 -->[1913 Webster]
+    [1913 Webster + PJC]
+
+    <-- p. 1672 -->
+
+    [1913 Webster]
 
 Xyloquinone
-    Xy`lo*qui"none (?), n. [Xylene + quinone.] (Chem.) Any one of a group of quinone compounds obtained respectively by the oxidation of certain xylidine compounds. In general they are yellow crystalline substances.[1913 Webster]
+    Xy`lo*qui"none, n. [Xylene + quinone.] (Chem.) Any one of a group of quinone compounds obtained respectively by the oxidation of certain xylidine compounds. In general they are yellow crystalline substances.
+
+    [1913 Webster]
 
 Xylorcin
-    Xy*lor"cin (?), n. [Xylene + orcin.] (Chem.) A derivative of xylene obtained as a white crystalline substance which on exposure in the air becomes red; -- called also betaorcin.[1913 Webster]
+    Xy*lor"cin, n. [Xylene + orcin.] (Chem.) A derivative of xylene obtained as a white crystalline substance which on exposure in the air becomes red; -- called also betaorcin.
+
+    [1913 Webster]
 
 Xylose
-    Xy"lose (?), n. [Pref. xylo- + -ose.] (Chem.) An unfermentable sugar of the pentose class, C5H10O5, formed by the hydrolysis of xylan; wood sugar.[Webster 1913 Suppl.]
+    Xy"lose, n. [Pref. xylo- + -ose.] (Chem.) An unfermentable sugar of the pentose class, C5H10O5, formed by the hydrolysis of xylan; wood sugar.
+
+    [Webster 1913 Suppl.]
 
 Xylostein
-    Xy*los"te*in (?), n. [Xylo- + Gr. 'oste`on bone.] (Chem.) A glucoside found in the poisonous berries of a species of honeysuckle (Lonicera xylosteum), and extracted as a bitter, white, crystalline substance.[1913 Webster]
+    Xy*los"te*in, n. [Xylo- + Gr. ὀστέον bone.] (Chem.) A glucoside found in the poisonous berries of a species of honeysuckle (Lonicera xylosteum), and extracted as a bitter, white, crystalline substance.
+
+    [1913 Webster]
 
 Xylotile
-    Xy"lo*tile (?), n. Same as Parkesine.[1913 Webster]
+    Xy"lo*tile, n. Same as Parkesine.
+
+    [1913 Webster]
 
 Xylotomist
-    Xy*lot"o*mist (?), n. One versed or engaged in xylotomy.[Webster 1913 Suppl.]
+    Xy*lot"o*mist, n. One versed or engaged in xylotomy.
+
+    [Webster 1913 Suppl.]
 
 Xylotomous
-    Xy*lot"o*mous (?), a. [Pref. xylo- + root of Gr. te`mnein to cut.] (Zool.) Capable of boring or cutting wood; -- said of many insects.[Webster 1913 Suppl.]
+    Xy*lot"o*mous, a. [Pref. xylo- + root of Gr. τέμνειν to cut.] (Zool.) Capable of boring or cutting wood; -- said of many insects.
+
+    [Webster 1913 Suppl.]
 
 Xylotomy
-    Xy*lot"o*my (?), n. [Pref. xylo- + -tomy.] Art of preparing sections (transverse, tangential, or radial) of wood, esp. by means of a microtome, for microscopic examination.[Webster 1913 Suppl.]
+    Xy*lot"o*my, n. [Pref. xylo- + -tomy.] Art of preparing sections (transverse, tangential, or radial) of wood, esp. by means of a microtome, for microscopic examination.
+
+    [Webster 1913 Suppl.]
 
 Xylotrya
-    \'d8Xy*lo"try*a (?), n. [NL., fr. Gr. xy`lon wood + ⸮ to rub, wear out.] (Zool.) A genus of marine bivalves closely allied to Teredo, and equally destructive to timber. One species (Xylotrya fimbriata) is very common on the Atlantic coast of the United States.[1913 Webster]
+    Xy*lo"try*a, n. [NL., fr. Gr. ξύλον wood + to rub, wear out.] (Zool.) A genus of marine bivalves closely allied to Teredo, and equally destructive to timber. One species (Xylotrya fimbriata) is very common on the Atlantic coast of the United States.
+
+    [1913 Webster]
 
 Xylyl
-    Xy"lyl (?), n. [Xylo- + -yl.] (Chem.) Any one of three metameric radicals which are characteristic respectively of the three xylenes.[1913 Webster]
+    Xy"lyl, n. [Xylo- + -yl.] (Chem.) Any one of three metameric radicals which are characteristic respectively of the three xylenes.
+
+    [1913 Webster]
 
 Xylylene
-    Xy"lyl*ene (?), n. (Chem.) Any one of three metameric radicals, CH2.C6H4.CH2, derived respectively from the three xylenes. Often used adjectively; as, xylylene alcohol.[1913 Webster]
+    Xy"lyl*ene, n. (Chem.) Any one of three metameric radicals, CH2.C6H4.CH2, derived respectively from the three xylenes. Often used adjectively; as, xylylene alcohol.
+
+    [1913 Webster]
 
 Xyridaceous
-    Xyr`i*da"ceous (?), a. (Bot.) Of or pertaining to a natural order (Xyrideae) of endogenous plants, of which Xyris is the type.[1913 Webster]
+    Xyr`i*da"ceous, a. (Bot.) Of or pertaining to a natural order (Xyrideae) of endogenous plants, of which Xyris is the type.
+
+    [1913 Webster]
 
 Xyris
-    \'d8Xy"ris (?), n. [L., a kind of Iris, Gr. ⸮, fr. ⸮ a razor.] (Bot.) A genus of endogenous herbs with grassy leaves and small yellow flowers in short, scaly-bracted spikes; yellow-eyed grass. There are about seventeen species in the Atlantic United States.[1913 Webster]
+    Xy"ris, n. [L., a kind of Iris, Gr., fr. a razor.] (Bot.) A genus of endogenous herbs with grassy leaves and small yellow flowers in short, scaly-bracted spikes; yellow-eyed grass. There are about seventeen species in the Atlantic United States.
+
+    [1913 Webster]
 
 Xystus
-    XystXyst (?), \'d8Xys"tus (?),] n. [L. xystus, Gr. ⸮, from ⸮ to scrape, polish; -- so called from its smooth and polished floor.] (Anc. Arch.) A long and open portico, for athletic exercises, as wrestling, running, etc., for use in winter or in stormy weather.[1913 Webster]
+    Xyst, Xys"tus, n. [L. xystus, Gr., from to scrape, polish; -- so called from its smooth and polished floor.] (Anc. Arch.) A long and open portico, for athletic exercises, as wrestling, running, etc., for use in winter or in stormy weather.
+
+    [1913 Webster]
 
 Xystarch
-    Xystἁrch (?), n. [L. xystarches, Gr. ⸮, ⸮ a xyst + ⸮ to rule.] (Gr. Antiq.) An officer having the superintendence of the xyst. Dr. W. Smith.[1913 Webster]
+    Xyst"arch, n. [L. xystarches, Gr., a xyst + to rule.] (Gr. Antiq.) An officer having the superintendence of the xyst. Dr. W. Smith.
+
+    [1913 Webster]
 
 Xyster
-    Xys"ter (?), n. [NL., fr. Gr. xysth`r a scraper.] (Surg.) An instrument for scraping bones.[1913 Webster]
+    Xys"ter, n. [NL., fr. Gr. ξυστήρ a scraper.] (Surg.) An instrument for scraping bones.
+
+    [1913 Webster]
 
     <-- Local variables: --> <-- mode: sgml --> <-- fill-column: 72 --> <-- End: -->
